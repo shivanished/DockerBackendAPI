@@ -1,0 +1,5 @@
+steps:
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['build', '-t', 'gcr.io/poetic-now-424201-a8/dietdroidbackend:latest', '.']
+images:
+- 'gcr.io/poetic-now-424201-a8/dietdroidbackend:latest'
