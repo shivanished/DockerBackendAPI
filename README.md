@@ -1,5 +1,6 @@
-This is the Backend API for a personalized diet formulation website based on the Berkeley Dining Hall Menu.
+# DockerBackendAPI
 
-Backend API service URL: https://dietdroidbackend-qzkyxgkymq-wl.a.run.app
+This is the Backend API for a personalized diet formulation website based on the Berkeley Dining Hall Menu. I made it for a consulting project with Docker where we showed it's capabilities in enabling a microservices architecture.
 
-Hosted on Google Cloud Run.
+The API is hosted on Google Cloud Run; service URL: https://dietdroidbackend-qzkyxgkymq-wl.a.run.app
+
